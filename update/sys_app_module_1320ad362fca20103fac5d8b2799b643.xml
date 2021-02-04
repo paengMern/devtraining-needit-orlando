@@ -4,7 +4,7 @@
         <application display_value="NeedIt">1df401222f4220103fac5d8b2799b613</application>
         <assessment/>
         <device_type/>
-        <filter table="x_58872_needit_needit">state=-5^EQ<item display_value="Pending" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="-5"/>
+        <filter table="x_58872_needit_needit">state=-5^EQ<item display_value="-5" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="-5"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
         <hint/>
